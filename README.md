@@ -1,2 +1,2 @@
 # billhive-frontend
-Frontend for BillHive (billhive.co.uk)
+Frontend for BillHive (billhive.co.uk) powered by Polymer
